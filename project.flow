@@ -1,0 +1,33 @@
+{
+	luxe:{
+		window: {
+			width: 540,
+			height: 960,
+			title:'Regis Agro',
+			fullscreen: false,
+			resizable: true,
+			borderless: false
+		}
+	},
+
+	project: {
+		name: 'Regis Agro',
+		version: '0.0.0-alpha.0',
+		author: 'Kenton Hamaluik',
+
+		app: {
+			name: 'RegisAgro',
+			package: 'com.blazingmammothgames.regisagro'
+		},
+
+		build: {
+			dependencies: {
+				luxe: '*',
+			}
+		},
+
+		files: {
+			assets : 'assets/'
+		}
+	}
+}
