@@ -1,0 +1,3 @@
+# Regis Agro
+
+_Regis Agro_ is a Luxe implementation of **hnefatafl**, or "King's Table". The game is an ancient two-player strategy / tactics game not unlike chess. However, the game is significantly different than chess due to its asymmetric design: one player plays as the "king" and his men, with a total of 13 game pieces starting in the centre square of the board, while the other player plays as a team of 24 invaders trying to capture the king before he can escape the board.
