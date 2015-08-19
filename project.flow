@@ -1,8 +1,8 @@
 {
 	luxe:{
 		window: {
-			width: 540,
-			height: 960,
+			width: 640,
+			height: 640,
 			title:'Regis Agro',
 			fullscreen: false,
 			resizable: true,

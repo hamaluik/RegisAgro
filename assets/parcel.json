@@ -1,0 +1,8 @@
+{
+    "shaders" : [
+        { "id":"circleout", "frag_id":"assets/shaders/circleout.glsl", "vert_id":"default" },
+        { "id":"sepia", "frag_id":"assets/shaders/sepia.glsl", "vert_id":"default" },
+        { "id":"vignette", "frag_id":"assets/shaders/vignette.glsl", "vert_id":"default" },
+        { "id":"glitch", "frag_id":"assets/shaders/glitch.glsl", "vert_id":"default" }
+    ]
+}
